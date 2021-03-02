@@ -7,8 +7,9 @@
 
 2.javascript中变量的作用域
 ---
+
 ```
 function f1(){
-    
+
 }
 ```
